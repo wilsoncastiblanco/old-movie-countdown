@@ -16,7 +16,7 @@ The way of building an animation is prretty much simple than XML! Terrific :love
 
 ## :camera_flash: Screenshots
 <!-- You can add more screenshots here if you like -->
-<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">
+<img src="/results/screenshot_1.png" width="260">&emsp;<img src="/results/screenshot_2.png" width="260">&emsp;<img src="/results/video.mp4" width="260">
 
 ## License
 ```
